@@ -2,6 +2,7 @@ package com.example.candycoded;
 
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
+
 import androidx.annotation.Nullable;
 
 
